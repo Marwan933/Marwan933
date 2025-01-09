@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Marwan Hesham <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-<!--
-**Marwan933/Marwan933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 
-Here are some ideas to get you started:
+# Junior DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="left"> About Me🚀</h1>
+
+# I’m a recent graduate from Modern Academy For Enginerring and Technology, class of 2024. As a Communication and Electronics Engineer I am passionate about cloud technologies and DevOps practices.
+
+
+
+![devops-engineer](https://github.com/user-attachments/assets/2dabb91a-929e-47a9-965d-fc37074d1649)
+
+
+#### You can find me on:
+[Linkedin](https://www.linkedin.com/in/marwan-heshamhanafy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  - [Gmail](marwanhesham463@gmail.com)
+
