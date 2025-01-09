@@ -12,7 +12,6 @@
 # I’m a recent graduate from Modern Academy For Enginerring and Technology, class of 2024. As a Communication and Electronics Engineer I am passionate about cloud technologies and DevOps practices.
 
 
-
 ![devops-engineer](https://github.com/user-attachments/assets/2dabb91a-929e-47a9-965d-fc37074d1649)
 
 
